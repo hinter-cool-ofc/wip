@@ -1,4 +1,3 @@
 <div id="header" align="center">
-  <img src="[https://hinter [F7BCB1C] (1).png](https://t.me/c/3557568740/3)
-width="100"/>
+  <img src="https://files.catbox.moe/qzb8a0.png" width="10000"/>
 </div>
