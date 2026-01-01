@@ -1,10 +1,12 @@
 <p align="center">
 <img src="https://files.catbox.moe/wd76lw.jpg" width="900"/>
-<p align="center">
-<div id="header" align="center">
-  <img src="https://files.catbox.moe/qzb8a0.png" width="500"/>
 </div>
 
+<p align="center">
+  <img src="https://files.catbox.moe/7x7nke.png" width="500"/>
+</div>
+
+[pronouns](https://en.pronouns.page/@lpkoko)
 
 </br>
 a
