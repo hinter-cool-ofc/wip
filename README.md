@@ -7,7 +7,7 @@
  </a>
  [strawpage,](https://hinterkun.straw.page)
  </a>
-  [atabook(sign ata plsss)](hinterkun.atabook.org)
+  [atabook(sign ata plsss)](https://hinterkun.atabook.org)
  </a>
 <img src="https://files.catbox.moe/ahhqdq.png" width="200"/>
 
